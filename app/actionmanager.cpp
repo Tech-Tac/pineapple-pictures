@@ -110,7 +110,7 @@ void ActionManager::retranslateUi(MainWindow *mainWindow)
     actionPaste->setText(QCoreApplication::translate("MainWindow", "&Paste", nullptr));
     actionTrash->setText(QCoreApplication::translate("MainWindow", "Move to Trash", nullptr));
     actionToggleStayOnTop->setText(QCoreApplication::translate("MainWindow", "Stay on top", nullptr));
-    actionToggleProtectMode->setText(QCoreApplication::translate("MainWindow", "Protected mode", nullptr));
+    actionToggleProtectMode->setText(QCoreApplication::translate("MainWindow", "Prevent Closing", nullptr));
     actionToggleAvoidResetTransform->setText(QCoreApplication::translate("MainWindow", "Keep transformation", "The 'transformation' means the flip/rotation status that currently applied to the image view"));
     actionSettings->setText(QCoreApplication::translate("MainWindow", "Configure...", nullptr));
     actionHelp->setText(QCoreApplication::translate("MainWindow", "Help", nullptr));
