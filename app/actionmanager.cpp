@@ -92,8 +92,8 @@ void ActionManager::retranslateUi(MainWindow *mainWindow)
     actionZoomIn->setText(QCoreApplication::translate("MainWindow", "Zoom In", nullptr));
     actionZoomOut->setText(QCoreApplication::translate("MainWindow", "Zoom Out", nullptr));
     actionToggleCheckerboard->setText(QCoreApplication::translate("MainWindow", "Toggle Checkerboard", nullptr));
-    actionRotateClockwise->setText(QCoreApplication::translate("MainWindow", "Rotate Right", nullptr));
-    actionRotateCounterClockwise->setText(QCoreApplication::translate("MainWindow", "Rotate Left", nullptr));
+    actionRotateClockwise->setText(QCoreApplication::translate("MainWindow", "Rotate Clockwise", nullptr));
+    actionRotateCounterClockwise->setText(QCoreApplication::translate("MainWindow", "Rotate Counterclockwise", nullptr));
 
     actionPrevPicture->setText(QCoreApplication::translate("MainWindow", "Previous Image", nullptr));
     actionNextPicture->setText(QCoreApplication::translate("MainWindow", "Next Image", nullptr));
