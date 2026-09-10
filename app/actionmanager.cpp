@@ -99,7 +99,7 @@ void ActionManager::retranslateUi(MainWindow *mainWindow)
     actionNextPicture->setText(QCoreApplication::translate("MainWindow", "Next Image", nullptr));
 
     actionTogglePauseAnimation->setText(QCoreApplication::translate("MainWindow", "Pause/Resume Animation", nullptr));
-    actionAnimationNextFrame->setText(QCoreApplication::translate("MainWindow", "Animation Go to Next Frame", nullptr));
+    actionAnimationNextFrame->setText(QCoreApplication::translate("MainWindow", "Next Animation Frame", nullptr));
 
     actionHorizontalFlip->setText(QCoreApplication::translate("MainWindow", "Flip &Horizontally", nullptr));
     actionFitInView->setText(QCoreApplication::translate("MainWindow", "Fit to View", nullptr));
