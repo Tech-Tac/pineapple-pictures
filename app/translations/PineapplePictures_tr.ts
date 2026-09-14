@@ -9,14 +9,12 @@
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="32"/>
         <source>Launch application with image file path as argument to load the file.</source>
-        <translation>Dosyayı yüklemek için değişken olarak resim dosyası yolu ile uygulamayı çalıştır.</translation>
+        <translation type="vanished">Dosyayı yüklemek için değişken olarak resim dosyası yolu ile uygulamayı çalıştır.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="33"/>
         <source>Drag and drop image file onto the window is also supported.</source>
-        <translation>Pencere üzerine resim dosyası sürükle bırak ta destekleniyor.</translation>
+        <translation type="vanished">Pencere üzerine resim dosyası sürükle bırak ta destekleniyor.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -24,19 +22,16 @@
         <translation>Bu uygulamadaki işlemlerin hiçbiri diskteki resimleri değiştirmeyecektir.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="35"/>
         <source>Context menu option explanation:</source>
-        <translation>İçerik menüsü seçeneği açıklaması:</translation>
+        <translation type="vanished">İçerik menüsü seçeneği açıklaması:</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="42"/>
         <source>Make window stay on top of all other windows.</source>
-        <translation>Pencereyi diğer tüm pencerelerin üzerinde tut.</translation>
+        <translation type="vanished">Pencereyi diğer tüm pencerelerin üzerinde tut.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="45"/>
         <source>Avoid close window accidentally. (eg. by double clicking the window)</source>
-        <translation>Pencereyi yanlışlıkla kapatmaktan kaçın. (örn. pencereye çift tıklayarak)</translation>
+        <translation type="vanished">Pencereyi yanlışlıkla kapatmaktan kaçın. (örn. pencereye çift tıklayarak)</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="55"/>
@@ -109,6 +104,31 @@
         <translation>Haklarınız</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="32"/>
+        <source>Launch the application using an image file path as an argument to load the file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="33"/>
+        <source>Dragging and dropping an image file onto the window is also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="35"/>
+        <source>Context menu options explanation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="42"/>
+        <source>Make the window stay on top of all other windows.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="45"/>
+        <source>Avoid closing the window accidentally. (e.g. by double clicking the window)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../aboutdialog.cpp" line="48"/>
         <source>Avoid resetting the zoom/rotation/flip state that was applied to the image view when switching between images.</source>
         <translation>Resimler arasında geçiş yaparken resim görünümüne uygulanan yakınlaştırma/döndürme/çevirme durumu sıfırlanmasın.</translation>
@@ -178,8 +198,8 @@
 <context>
     <name>GraphicsScene</name>
     <message>
-        <location filename="../mainwindow.cpp" line="305"/>
         <location filename="../graphicsscene.cpp" line="102"/>
+        <location filename="../mainwindow.cpp" line="305"/>
         <source>Drag image here</source>
         <translation>Resmi buraya sürükleyin</translation>
     </message>
@@ -283,9 +303,8 @@
         <translation>Çöp kutusuna taşıma başarısız oldu, dosya izin sorunu, dosya sistemi sınırlaması veya platform sınırlamasından kaynaklanıyor olabilir.</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="108"/>
         <source>Copy P&amp;ixmap</source>
-        <translation>P&amp;ixmap&apos;i Kopyala</translation>
+        <translation type="vanished">P&amp;ixmap&apos;i Kopyala</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="109"/>
@@ -293,33 +312,31 @@
         <translation>&amp;Dosya Yolunu Kopyala</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="125"/>
+        <source>Show in Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="127"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="112"/>
-        <location filename="../aboutdialog.cpp" line="41"/>
         <source>Stay on top</source>
-        <translation>Üstte tut</translation>
+        <translation type="vanished">Üstte tut</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="113"/>
-        <location filename="../aboutdialog.cpp" line="44"/>
         <source>Protected mode</source>
-        <translation>Korumalı kip</translation>
+        <translation type="vanished">Korumalı kip</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="114"/>
-        <location filename="../aboutdialog.cpp" line="47"/>
         <source>Keep transformation</source>
         <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation>Dönüşümü koru</translation>
+        <translation type="vanished">Dönüşümü koru</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="92"/>
         <source>Zoom in</source>
-        <translation>Yaklaştır</translation>
+        <translation type="vanished">Yaklaştır</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="88"/>
@@ -327,9 +344,8 @@
         <translation>Farklı &amp;Kaydet...</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="93"/>
         <source>Zoom out</source>
-        <translation>Uzaklaştır</translation>
+        <translation type="vanished">Uzaklaştır</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="101"/>
@@ -337,9 +353,8 @@
         <translation>Canlandırmayı Duraklat/Sürdür</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="102"/>
         <source>Animation Go to Next Frame</source>
-        <translation>Canlandırma Sonraki Kareye Git</translation>
+        <translation type="vanished">Canlandırma Sonraki Kareye Git</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="104"/>
@@ -347,19 +362,16 @@
         <translation>&amp;Yatay Çevir</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="105"/>
         <source>Fit to view</source>
-        <translation>Görünüme sığdır</translation>
+        <translation type="vanished">Görünüme sığdır</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="106"/>
         <source>Fit to width</source>
-        <translation>Genişliğe sığdır</translation>
+        <translation type="vanished">Genişliğe sığdır</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="107"/>
         <source>Fit long image</source>
-        <translation>Geniş resmi sığdır</translation>
+        <translation type="vanished">Geniş resmi sığdır</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="110"/>
@@ -377,38 +389,97 @@
         <translation>&amp;Aç...</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="90"/>
         <source>Actual size</source>
-        <translation>Gerçek boyut</translation>
+        <translation type="vanished">Gerçek boyut</translation>
+    </message>
+    <message>
+        <source>Toggle maximize</source>
+        <translation type="vanished">Tam boyuta geç</translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="vanished">Sağa döndür</translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="vanished">Sola döndür</translation>
+    </message>
+    <message>
+        <source>Previous image</source>
+        <translation type="vanished">Önceki resim</translation>
+    </message>
+    <message>
+        <source>Next image</source>
+        <translation type="vanished">Sonraki resim</translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="90"/>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="91"/>
-        <source>Toggle maximize</source>
-        <translation>Tam boyuta geç</translation>
+        <source>Toggle Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="92"/>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="93"/>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="95"/>
-        <source>Rotate right</source>
-        <translation>Sağa döndür</translation>
+        <source>Rotate Clockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="96"/>
-        <source>Rotate left</source>
-        <translation>Sola döndür</translation>
+        <source>Rotate Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="98"/>
-        <source>Previous image</source>
-        <translation>Önceki resim</translation>
+        <source>Previous Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="99"/>
-        <source>Next image</source>
-        <translation>Sonraki resim</translation>
+        <source>Next Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="892"/>
+        <location filename="../actionmanager.cpp" line="102"/>
+        <source>Next Animation Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="105"/>
+        <source>Fit to View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="106"/>
+        <source>Fit to Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="107"/>
+        <source>Fit Long Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="108"/>
+        <source>Copy &amp;Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="892"/>
         <source>Move to Trash</source>
         <translation>Çöp Kutusuna Taşı</translation>
     </message>
@@ -429,14 +500,32 @@
         <translation>Dosya Gezgini&apos;nde Göster</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="125"/>
         <source>Show in directory</source>
-        <translation>Dizinde göster</translation>
+        <translation type="vanished">Dizinde göster</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="128"/>
         <source>Quit</source>
         <translation>Çıkış</translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="41"/>
+        <location filename="../actionmanager.cpp" line="112"/>
+        <source>Stay on Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="44"/>
+        <location filename="../actionmanager.cpp" line="113"/>
+        <source>Prevent Closing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="47"/>
+        <location filename="../actionmanager.cpp" line="114"/>
+        <source>Keep Transformation</source>
+        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -790,9 +879,13 @@
         <translation>Kısayollar ayarlanamadı</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="75"/>
         <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
-        <translation>Kısayolların var olan kısayollarla çakışma durumunu denetleyin.</translation>
+        <translation type="vanished">Kısayolların var olan kısayollarla çakışma durumunu denetleyin.</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="75"/>
+        <source>Please check if these shortcuts are assigned to other actions.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="82"/>
@@ -826,8 +919,37 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="94"/>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="126"/>
+        <source>Stay on top by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="127"/>
+        <source>Use custom window closing animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="130"/>
+        <source>Use light-colored checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="132"/>
+        <source>Automatically fit long images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="136"/>
+        <source>Default window state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto size</source>
-        <translation>Otomatik boyut</translation>
+        <translation type="vanished">Otomatik boyut</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="95"/>
@@ -864,14 +986,12 @@
         <translation>Sistemi takip et (Kesirli ölçekleme)</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="126"/>
         <source>Stay on top when start-up</source>
-        <translation>Açılışta pencerelerin üstünde kal</translation>
+        <translation type="vanished">Açılışta pencerelerin üstünde kal</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="127"/>
         <source>Use built-in close window animation</source>
-        <translation>Yerleşik kapat pencere canlandırmasını kullan</translation>
+        <translation type="vanished">Yerleşik kapat pencere canlandırmasını kullan</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="128"/>
@@ -884,9 +1004,8 @@
         <translation>Kuş bakışı görünümünü göster</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="130"/>
         <source>Use light-color checkerboard</source>
-        <translation>Açık renk dama tahtası kullan</translation>
+        <translation type="vanished">Açık renk dama tahtası kullan</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="131"/>
@@ -894,9 +1013,8 @@
         <translation>Yüklenen galeriyi döngüye al</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="132"/>
         <source>Auto long image mode</source>
-        <translation>Kendiliğinden uzun resim kipi</translation>
+        <translation type="vanished">Kendiliğinden uzun resim kipi</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="133"/>
@@ -914,9 +1032,8 @@
         <translation>Fare tekeri davranışı</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="136"/>
         <source>Default window size</source>
-        <translation>Öntanımlı pencere boyutu</translation>
+        <translation type="vanished">Öntanımlı pencere boyutu</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="137"/>

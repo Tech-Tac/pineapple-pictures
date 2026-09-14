@@ -9,14 +9,12 @@
         <translation>Giới thiệu về</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="32"/>
         <source>Launch application with image file path as argument to load the file.</source>
-        <translation>Khởi chạy ứng dụng với đường dẫn tệp hình ảnh làm đối số để tải tệp.</translation>
+        <translation type="vanished">Khởi chạy ứng dụng với đường dẫn tệp hình ảnh làm đối số để tải tệp.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="33"/>
         <source>Drag and drop image file onto the window is also supported.</source>
-        <translation>Kéo và thả tệp hình ảnh vào cửa sổ cũng được hỗ trợ.</translation>
+        <translation type="vanished">Kéo và thả tệp hình ảnh vào cửa sổ cũng được hỗ trợ.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -24,19 +22,16 @@
         <translation>Không có thao tác nào trong ứng dụng này sẽ làm thay đổi hình ảnh trên đĩa.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="35"/>
         <source>Context menu option explanation:</source>
-        <translation>Giải thích tùy chọn menu ngữ cảnh:</translation>
+        <translation type="vanished">Giải thích tùy chọn menu ngữ cảnh:</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="42"/>
         <source>Make window stay on top of all other windows.</source>
-        <translation>Đặt cửa sổ ở trên cùng của tất cả các cửa sổ khác.</translation>
+        <translation type="vanished">Đặt cửa sổ ở trên cùng của tất cả các cửa sổ khác.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="45"/>
         <source>Avoid close window accidentally. (eg. by double clicking the window)</source>
-        <translation>Tránh vô tình đóng cửa sổ. (ví dụ: bằng cách nhấp đúp vào cửa sổ)</translation>
+        <translation type="vanished">Tránh vô tình đóng cửa sổ. (ví dụ: bằng cách nhấp đúp vào cửa sổ)</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="48"/>
@@ -111,6 +106,31 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Quyền của bạn</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="32"/>
+        <source>Launch the application using an image file path as an argument to load the file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="33"/>
+        <source>Dragging and dropping an image file onto the window is also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="35"/>
+        <source>Context menu options explanation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="42"/>
+        <source>Make the window stay on top of all other windows.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="45"/>
+        <source>Avoid closing the window accidentally. (e.g. by double clicking the window)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>Copyright (c) %1 %2</source>
         <comment>%1 is year, %2 is the name of copyright holder(s)</comment>
@@ -175,8 +195,8 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
 <context>
     <name>GraphicsScene</name>
     <message>
-        <location filename="../mainwindow.cpp" line="305"/>
         <location filename="../graphicsscene.cpp" line="102"/>
+        <location filename="../mainwindow.cpp" line="305"/>
         <source>Drag image here</source>
         <translation>Kéo hình ảnh vào đây</translation>
     </message>
@@ -268,9 +288,8 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Di chuyển vào thùng rác không thành công, nguyên nhân có thể là do vấn đề về quyền đối với tệp, giới hạn hệ thống tệp hoặc giới hạn nền tảng.</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="108"/>
         <source>Copy P&amp;ixmap</source>
-        <translation>Sao chép P&amp;ixmap</translation>
+        <translation type="vanished">Sao chép P&amp;ixmap</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="109"/>
@@ -278,33 +297,31 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Sao chép Đường &amp;dẫn tệp</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="125"/>
+        <source>Show in Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="127"/>
         <source>Properties</source>
         <translation>Thuộc tính</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="112"/>
-        <location filename="../aboutdialog.cpp" line="41"/>
         <source>Stay on top</source>
-        <translation>Luôn trên đầu</translation>
+        <translation type="vanished">Luôn trên đầu</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="113"/>
-        <location filename="../aboutdialog.cpp" line="44"/>
         <source>Protected mode</source>
-        <translation>Chế độ bảo vệ</translation>
+        <translation type="vanished">Chế độ bảo vệ</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="114"/>
-        <location filename="../aboutdialog.cpp" line="47"/>
         <source>Keep transformation</source>
         <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation>Giữ sự chuyển đổi</translation>
+        <translation type="vanished">Giữ sự chuyển đổi</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="92"/>
         <source>Zoom in</source>
-        <translation>Phóng to</translation>
+        <translation type="vanished">Phóng to</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="88"/>
@@ -312,9 +329,8 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Lưu &amp;dưới dạng...</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="93"/>
         <source>Zoom out</source>
-        <translation>Thu nhỏ</translation>
+        <translation type="vanished">Thu nhỏ</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="101"/>
@@ -322,9 +338,8 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Tạm dừng/Tiếp tục hoạt ảnh</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="102"/>
         <source>Animation Go to Next Frame</source>
-        <translation>Hoạt hình Chuyển đến khung tiếp theo</translation>
+        <translation type="vanished">Hoạt hình Chuyển đến khung tiếp theo</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="104"/>
@@ -332,19 +347,16 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Lật &amp;Theo chiều ngang</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="105"/>
         <source>Fit to view</source>
-        <translation>Phù hợp để xem</translation>
+        <translation type="vanished">Phù hợp để xem</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="106"/>
         <source>Fit to width</source>
-        <translation>Vừa với chiều rộng</translation>
+        <translation type="vanished">Vừa với chiều rộng</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="107"/>
         <source>Fit long image</source>
-        <translation>Vừa với hình ảnh dài</translation>
+        <translation type="vanished">Vừa với hình ảnh dài</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="110"/>
@@ -362,38 +374,97 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>&amp;Mở...</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="90"/>
         <source>Actual size</source>
-        <translation>Kích thước thực tế</translation>
+        <translation type="vanished">Kích thước thực tế</translation>
+    </message>
+    <message>
+        <source>Toggle maximize</source>
+        <translation type="vanished">Chuyển đổi tối đa hóa</translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="vanished">Xoay phải</translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="vanished">Xoay trái</translation>
+    </message>
+    <message>
+        <source>Previous image</source>
+        <translation type="vanished">Hình ảnh trước đó</translation>
+    </message>
+    <message>
+        <source>Next image</source>
+        <translation type="vanished">Hình ảnh tiếp theo</translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="90"/>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="91"/>
-        <source>Toggle maximize</source>
-        <translation>Chuyển đổi tối đa hóa</translation>
+        <source>Toggle Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="92"/>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="93"/>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="95"/>
-        <source>Rotate right</source>
-        <translation>Xoay phải</translation>
+        <source>Rotate Clockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="96"/>
-        <source>Rotate left</source>
-        <translation>Xoay trái</translation>
+        <source>Rotate Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="98"/>
-        <source>Previous image</source>
-        <translation>Hình ảnh trước đó</translation>
+        <source>Previous Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="99"/>
-        <source>Next image</source>
-        <translation>Hình ảnh tiếp theo</translation>
+        <source>Next Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="892"/>
+        <location filename="../actionmanager.cpp" line="102"/>
+        <source>Next Animation Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="105"/>
+        <source>Fit to View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="106"/>
+        <source>Fit to Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="107"/>
+        <source>Fit Long Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="108"/>
+        <source>Copy &amp;Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="892"/>
         <source>Move to Trash</source>
         <translation>Chuyển vào Thùng rác</translation>
     </message>
@@ -414,14 +485,32 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Hiển thị trong tệp Explorer</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="125"/>
         <source>Show in directory</source>
-        <translation>Hiển thị trong thư mục</translation>
+        <translation type="vanished">Hiển thị trong thư mục</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="128"/>
         <source>Quit</source>
         <translation>Thoát</translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="41"/>
+        <location filename="../actionmanager.cpp" line="112"/>
+        <source>Stay on Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="44"/>
+        <location filename="../actionmanager.cpp" line="113"/>
+        <source>Prevent Closing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="47"/>
+        <location filename="../actionmanager.cpp" line="114"/>
+        <source>Keep Transformation</source>
+        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -775,9 +864,13 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Không đặt được phím tắt</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="75"/>
         <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
-        <translation>Vui lòng kiểm tra xem các phím tắt có bị trùng lặp với các phím tắt hiện có hay không.</translation>
+        <translation type="vanished">Vui lòng kiểm tra xem các phím tắt có bị trùng lặp với các phím tắt hiện có hay không.</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="75"/>
+        <source>Please check if these shortcuts are assigned to other actions.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="82"/>
@@ -811,8 +904,37 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="94"/>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="126"/>
+        <source>Stay on top by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="127"/>
+        <source>Use custom window closing animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="130"/>
+        <source>Use light-colored checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="132"/>
+        <source>Automatically fit long images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="136"/>
+        <source>Default window state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto size</source>
-        <translation>Kích thước tự động</translation>
+        <translation type="vanished">Kích thước tự động</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="95"/>
@@ -849,14 +971,12 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Hệ thống theo dõi (Chia tỷ lệ phân số)</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="126"/>
         <source>Stay on top when start-up</source>
-        <translation>Luôn dẫn đầu khi khởi nghiệp</translation>
+        <translation type="vanished">Luôn dẫn đầu khi khởi nghiệp</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="127"/>
         <source>Use built-in close window animation</source>
-        <translation>Sử dụng hoạt ảnh đóng cửa sổ tích hợp</translation>
+        <translation type="vanished">Sử dụng hoạt ảnh đóng cửa sổ tích hợp</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="128"/>
@@ -869,9 +989,8 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="130"/>
         <source>Use light-color checkerboard</source>
-        <translation>Sử dụng bàn cờ màu sáng</translation>
+        <translation type="vanished">Sử dụng bàn cờ màu sáng</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="131"/>
@@ -879,9 +998,8 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Lặp lại thư viện đã tải</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="132"/>
         <source>Auto long image mode</source>
-        <translation>Chế độ hình ảnh dài tự động</translation>
+        <translation type="vanished">Chế độ hình ảnh dài tự động</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="133"/>
@@ -899,9 +1017,8 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
         <translation>Hành vi của bánh xe chuột</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="136"/>
         <source>Default window size</source>
-        <translation>Kích thước cửa sổ mặc định</translation>
+        <translation type="vanished">Kích thước cửa sổ mặc định</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="137"/>

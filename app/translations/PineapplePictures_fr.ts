@@ -9,14 +9,12 @@
         <translation>À propos</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="32"/>
         <source>Launch application with image file path as argument to load the file.</source>
-        <translation>Lancer l&apos;application avec le chemin du fichier image comme argument pour charger le fichier.</translation>
+        <translation type="vanished">Lancer l&apos;application avec le chemin du fichier image comme argument pour charger le fichier.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="33"/>
         <source>Drag and drop image file onto the window is also supported.</source>
-        <translation>Le glisser-déposer du fichier image sur la fenêtre est également pris en charge.</translation>
+        <translation type="vanished">Le glisser-déposer du fichier image sur la fenêtre est également pris en charge.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -24,19 +22,16 @@
         <translation>Aucun opération dans cette application ne modifiera les fichiers image.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="35"/>
         <source>Context menu option explanation:</source>
-        <translation>Explication des options du menu contextuel&#xa0;:</translation>
+        <translation type="vanished">Explication des options du menu contextuel&#xa0;:</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="42"/>
         <source>Make window stay on top of all other windows.</source>
-        <translation>Faire en sorte que la fenêtre reste au-dessus de toutes les autres fenêtres.</translation>
+        <translation type="vanished">Faire en sorte que la fenêtre reste au-dessus de toutes les autres fenêtres.</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="45"/>
         <source>Avoid close window accidentally. (eg. by double clicking the window)</source>
-        <translation>Éviter de fermer la fenêtre accidentellement. (par exemple en cliquant deux fois sur la fenêtre)</translation>
+        <translation type="vanished">Éviter de fermer la fenêtre accidentellement. (par exemple en cliquant deux fois sur la fenêtre)</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="55"/>
@@ -109,6 +104,31 @@
         <translation>Vos droits</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="32"/>
+        <source>Launch the application using an image file path as an argument to load the file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="33"/>
+        <source>Dragging and dropping an image file onto the window is also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="35"/>
+        <source>Context menu options explanation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="42"/>
+        <source>Make the window stay on top of all other windows.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="45"/>
+        <source>Avoid closing the window accidentally. (e.g. by double clicking the window)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../aboutdialog.cpp" line="48"/>
         <source>Avoid resetting the zoom/rotation/flip state that was applied to the image view when switching between images.</source>
         <translation type="unfinished"></translation>
@@ -178,8 +198,8 @@
 <context>
     <name>GraphicsScene</name>
     <message>
-        <location filename="../mainwindow.cpp" line="305"/>
         <location filename="../graphicsscene.cpp" line="102"/>
+        <location filename="../mainwindow.cpp" line="305"/>
         <source>Drag image here</source>
         <translation>Faites glisser l&apos;image ici</translation>
     </message>
@@ -283,9 +303,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="108"/>
         <source>Copy P&amp;ixmap</source>
-        <translation>Copier P&amp;ixmap</translation>
+        <translation type="vanished">Copier P&amp;ixmap</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="109"/>
@@ -293,33 +312,26 @@
         <translation>Copier le &amp;chemin du fichier</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="125"/>
+        <source>Show in Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="127"/>
         <source>Properties</source>
         <translation>Propriétés</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="112"/>
-        <location filename="../aboutdialog.cpp" line="41"/>
         <source>Stay on top</source>
-        <translation>Rester en-haut</translation>
+        <translation type="vanished">Rester en-haut</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="113"/>
-        <location filename="../aboutdialog.cpp" line="44"/>
         <source>Protected mode</source>
-        <translation>Mode protégé</translation>
+        <translation type="vanished">Mode protégé</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="114"/>
-        <location filename="../aboutdialog.cpp" line="47"/>
-        <source>Keep transformation</source>
-        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="92"/>
         <source>Zoom in</source>
-        <translation>Zoom avant</translation>
+        <translation type="vanished">Zoom avant</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="88"/>
@@ -327,9 +339,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="93"/>
         <source>Zoom out</source>
-        <translation>Zoom arrière</translation>
+        <translation type="vanished">Zoom arrière</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="101"/>
@@ -337,29 +348,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="102"/>
-        <source>Animation Go to Next Frame</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../actionmanager.cpp" line="104"/>
         <source>Flip &amp;Horizontally</source>
         <translation>Retourner &amp;horizontalement</translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="105"/>
-        <source>Fit to view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="106"/>
-        <source>Fit to width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="107"/>
-        <source>Fit long image</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="110"/>
@@ -377,38 +368,93 @@
         <translation>&amp;Ouvrir...</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="90"/>
         <source>Actual size</source>
-        <translation>Taille actuelle</translation>
+        <translation type="vanished">Taille actuelle</translation>
+    </message>
+    <message>
+        <source>Toggle maximize</source>
+        <translation type="vanished">Dés/activer l&apos;agrandissement</translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="vanished">Pivoter vers la droite</translation>
+    </message>
+    <message>
+        <source>Previous image</source>
+        <translation type="vanished">Image précédente</translation>
+    </message>
+    <message>
+        <source>Next image</source>
+        <translation type="vanished">Image suivant</translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="90"/>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="91"/>
-        <source>Toggle maximize</source>
-        <translation>Dés/activer l&apos;agrandissement</translation>
+        <source>Toggle Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="92"/>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="93"/>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="95"/>
-        <source>Rotate right</source>
-        <translation>Pivoter vers la droite</translation>
+        <source>Rotate Clockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="96"/>
-        <source>Rotate left</source>
+        <source>Rotate Counterclockwise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="98"/>
-        <source>Previous image</source>
-        <translation>Image précédente</translation>
+        <source>Previous Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="99"/>
-        <source>Next image</source>
-        <translation>Image suivant</translation>
+        <source>Next Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="892"/>
+        <location filename="../actionmanager.cpp" line="102"/>
+        <source>Next Animation Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="105"/>
+        <source>Fit to View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="106"/>
+        <source>Fit to Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="107"/>
+        <source>Fit Long Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="108"/>
+        <source>Copy &amp;Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="892"/>
         <source>Move to Trash</source>
         <translation type="unfinished"></translation>
     </message>
@@ -429,14 +475,32 @@
         <translation>Afficher dans le navigateur de fichiers</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="125"/>
         <source>Show in directory</source>
-        <translation>Afficher dans le dossier</translation>
+        <translation type="vanished">Afficher dans le dossier</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="128"/>
         <source>Quit</source>
         <translation>Quitter</translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="41"/>
+        <location filename="../actionmanager.cpp" line="112"/>
+        <source>Stay on Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="44"/>
+        <location filename="../actionmanager.cpp" line="113"/>
+        <source>Prevent Closing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="47"/>
+        <location filename="../actionmanager.cpp" line="114"/>
+        <source>Keep Transformation</source>
+        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -791,7 +855,7 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="75"/>
-        <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
+        <source>Please check if these shortcuts are assigned to other actions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -826,8 +890,37 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="94"/>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="126"/>
+        <source>Stay on top by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="127"/>
+        <source>Use custom window closing animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="130"/>
+        <source>Use light-colored checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="132"/>
+        <source>Automatically fit long images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="136"/>
+        <source>Default window state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto size</source>
-        <translation>Taille automatique</translation>
+        <translation type="vanished">Taille automatique</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="95"/>
@@ -864,14 +957,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="126"/>
         <source>Stay on top when start-up</source>
-        <translation>Rester en-haut lors du démarrage</translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use built-in close window animation</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Rester en-haut lors du démarrage</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="128"/>
@@ -884,18 +971,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="130"/>
-        <source>Use light-color checkerboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../settingsdialog.cpp" line="131"/>
         <source>Loop the loaded gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="132"/>
-        <source>Auto long image mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -914,9 +991,8 @@
         <translation>Comportement de la molette de la souris</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="136"/>
         <source>Default window size</source>
-        <translation>Taille de la fenêtre par défaut</translation>
+        <translation type="vanished">Taille de la fenêtre par défaut</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="137"/>

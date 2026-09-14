@@ -9,14 +9,12 @@
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="32"/>
         <source>Launch application with image file path as argument to load the file.</source>
-        <translation>以图片文件的路径作为参数运行程序即可直接打开图片文件。</translation>
+        <translation type="vanished">以图片文件的路径作为参数运行程序即可直接打开图片文件。</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="33"/>
         <source>Drag and drop image file onto the window is also supported.</source>
-        <translation>也支持拖放图片文件到窗口内来加载图片。</translation>
+        <translation type="vanished">也支持拖放图片文件到窗口内来加载图片。</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -24,19 +22,16 @@
         <translation>此程序中所有的操作均不会修改图片文件本身。</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="35"/>
         <source>Context menu option explanation:</source>
-        <translation>菜单项说明：</translation>
+        <translation type="vanished">菜单项说明：</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="42"/>
         <source>Make window stay on top of all other windows.</source>
-        <translation>使窗口始终至于其它非置顶窗口上方。</translation>
+        <translation type="vanished">使窗口始终至于其它非置顶窗口上方。</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="45"/>
         <source>Avoid close window accidentally. (eg. by double clicking the window)</source>
-        <translation>避免窗口意外关闭。（如：不小心双击了窗口触发了关闭窗口行为）</translation>
+        <translation type="vanished">避免窗口意外关闭。（如：不小心双击了窗口触发了关闭窗口行为）</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="55"/>
@@ -109,6 +104,31 @@
         <translation>用户的权利</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="32"/>
+        <source>Launch the application using an image file path as an argument to load the file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="33"/>
+        <source>Dragging and dropping an image file onto the window is also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="35"/>
+        <source>Context menu options explanation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="42"/>
+        <source>Make the window stay on top of all other windows.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="45"/>
+        <source>Avoid closing the window accidentally. (e.g. by double clicking the window)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../aboutdialog.cpp" line="48"/>
         <source>Avoid resetting the zoom/rotation/flip state that was applied to the image view when switching between images.</source>
         <translation>切换图片时，防止重置当前视图的缩放/旋转/翻转状态。</translation>
@@ -178,8 +198,8 @@
 <context>
     <name>GraphicsScene</name>
     <message>
-        <location filename="../mainwindow.cpp" line="305"/>
         <location filename="../graphicsscene.cpp" line="102"/>
+        <location filename="../mainwindow.cpp" line="305"/>
         <source>Drag image here</source>
         <translation>拖放图片至此</translation>
     </message>
@@ -283,9 +303,8 @@
         <translation>移至回收站失败，这可能由文件权限、文件系统或平台限制导致。</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="108"/>
         <source>Copy P&amp;ixmap</source>
-        <translation>复制位图(&amp;I)</translation>
+        <translation type="vanished">复制位图(&amp;I)</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="109"/>
@@ -293,33 +312,31 @@
         <translation>复制文件路径(&amp;F)</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="125"/>
+        <source>Show in Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="127"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="112"/>
-        <location filename="../aboutdialog.cpp" line="41"/>
         <source>Stay on top</source>
-        <translation>总在最前</translation>
+        <translation type="vanished">总在最前</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="113"/>
-        <location filename="../aboutdialog.cpp" line="44"/>
         <source>Protected mode</source>
-        <translation>保护模式</translation>
+        <translation type="vanished">保护模式</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="114"/>
-        <location filename="../aboutdialog.cpp" line="47"/>
         <source>Keep transformation</source>
         <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation>保持视图变换</translation>
+        <translation type="vanished">保持视图变换</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="92"/>
         <source>Zoom in</source>
-        <translation>放大</translation>
+        <translation type="vanished">放大</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="88"/>
@@ -327,9 +344,8 @@
         <translation>另存为(&amp;A)...</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="93"/>
         <source>Zoom out</source>
-        <translation>缩小</translation>
+        <translation type="vanished">缩小</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="101"/>
@@ -337,9 +353,8 @@
         <translation>暂定/继续动画播放</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="102"/>
         <source>Animation Go to Next Frame</source>
-        <translation>动画逐帧播放</translation>
+        <translation type="vanished">动画逐帧播放</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="104"/>
@@ -347,19 +362,16 @@
         <translation>水平翻转(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="105"/>
         <source>Fit to view</source>
-        <translation>自适应视图大小</translation>
+        <translation type="vanished">自适应视图大小</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="106"/>
         <source>Fit to width</source>
-        <translation>自适应宽度</translation>
+        <translation type="vanished">自适应宽度</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="107"/>
         <source>Fit long image</source>
-        <translation>自适应长图</translation>
+        <translation type="vanished">自适应长图</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="110"/>
@@ -377,38 +389,97 @@
         <translation>打开(&amp;O)...</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="90"/>
         <source>Actual size</source>
-        <translation>实际大小</translation>
+        <translation type="vanished">实际大小</translation>
+    </message>
+    <message>
+        <source>Toggle maximize</source>
+        <translation type="vanished">最大化窗口</translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="vanished">向右旋转</translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="vanished">向左旋转</translation>
+    </message>
+    <message>
+        <source>Previous image</source>
+        <translation type="vanished">上一个图像</translation>
+    </message>
+    <message>
+        <source>Next image</source>
+        <translation type="vanished">下一个图像</translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="90"/>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="91"/>
-        <source>Toggle maximize</source>
-        <translation>最大化窗口</translation>
+        <source>Toggle Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="92"/>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="93"/>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="95"/>
-        <source>Rotate right</source>
-        <translation>向右旋转</translation>
+        <source>Rotate Clockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="96"/>
-        <source>Rotate left</source>
-        <translation>向左旋转</translation>
+        <source>Rotate Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="98"/>
-        <source>Previous image</source>
-        <translation>上一个图像</translation>
+        <source>Previous Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="99"/>
-        <source>Next image</source>
-        <translation>下一个图像</translation>
+        <source>Next Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="892"/>
+        <location filename="../actionmanager.cpp" line="102"/>
+        <source>Next Animation Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="105"/>
+        <source>Fit to View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="106"/>
+        <source>Fit to Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="107"/>
+        <source>Fit Long Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="108"/>
+        <source>Copy &amp;Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="892"/>
         <source>Move to Trash</source>
         <translation>移至回收站</translation>
     </message>
@@ -429,14 +500,32 @@
         <translation>在文件资源管理器中显示</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="125"/>
         <source>Show in directory</source>
-        <translation>在文件夹中显示</translation>
+        <translation type="vanished">在文件夹中显示</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="128"/>
         <source>Quit</source>
         <translation>退出</translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="41"/>
+        <location filename="../actionmanager.cpp" line="112"/>
+        <source>Stay on Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="44"/>
+        <location filename="../actionmanager.cpp" line="113"/>
+        <source>Prevent Closing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="47"/>
+        <location filename="../actionmanager.cpp" line="114"/>
+        <source>Keep Transformation</source>
+        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -790,9 +879,13 @@
         <translation>快捷键设置失败</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="75"/>
         <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
-        <translation>请检查快捷键是否与现有快捷键冲突。</translation>
+        <translation type="vanished">请检查快捷键是否与现有快捷键冲突。</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="75"/>
+        <source>Please check if these shortcuts are assigned to other actions.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="82"/>
@@ -826,8 +919,37 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="94"/>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="126"/>
+        <source>Stay on top by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="127"/>
+        <source>Use custom window closing animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="130"/>
+        <source>Use light-colored checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="132"/>
+        <source>Automatically fit long images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="136"/>
+        <source>Default window state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto size</source>
-        <translation>自动大小</translation>
+        <translation type="vanished">自动大小</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="95"/>
@@ -864,14 +986,12 @@
         <translation>跟随系统（小数缩放）</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="126"/>
         <source>Stay on top when start-up</source>
-        <translation>启动时保持窗口总在最前</translation>
+        <translation type="vanished">启动时保持窗口总在最前</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="127"/>
         <source>Use built-in close window animation</source>
-        <translation>使用内置的关闭窗口动画</translation>
+        <translation type="vanished">使用内置的关闭窗口动画</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="128"/>
@@ -884,9 +1004,8 @@
         <translation>显示鸟瞰图</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="130"/>
         <source>Use light-color checkerboard</source>
-        <translation>使用亮色棋盘格</translation>
+        <translation type="vanished">使用亮色棋盘格</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="131"/>
@@ -894,9 +1013,8 @@
         <translation>循环所加载的图像列表</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="132"/>
         <source>Auto long image mode</source>
-        <translation>自动进入长图模式</translation>
+        <translation type="vanished">自动进入长图模式</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="133"/>
@@ -914,9 +1032,8 @@
         <translation>鼠标滚轮行为</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="136"/>
         <source>Default window size</source>
-        <translation>默认窗口大小</translation>
+        <translation type="vanished">默认窗口大小</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="137"/>

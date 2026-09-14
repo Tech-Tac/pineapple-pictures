@@ -9,14 +9,12 @@
         <translation>情報</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="32"/>
         <source>Launch application with image file path as argument to load the file.</source>
-        <translation>画像ファイルのパスをパラメータとしてアプリケーションを起動すると、ファイルを読み込みます。</translation>
+        <translation type="vanished">画像ファイルのパスをパラメータとしてアプリケーションを起動すると、ファイルを読み込みます。</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="33"/>
         <source>Drag and drop image file onto the window is also supported.</source>
-        <translation>画像ファイルをウィンドウにドラッグ＆ドロップすることもできます。</translation>
+        <translation type="vanished">画像ファイルをウィンドウにドラッグ＆ドロップすることもできます。</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -24,19 +22,16 @@
         <translation>このアプリのどの操作も、ディスク上の写真に変更を加えることはありません。</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="35"/>
         <source>Context menu option explanation:</source>
-        <translation>コンテキストメニューのオプションの説明:</translation>
+        <translation type="vanished">コンテキストメニューのオプションの説明:</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="42"/>
         <source>Make window stay on top of all other windows.</source>
-        <translation>ウィンドウを最前面に表示します。</translation>
+        <translation type="vanished">ウィンドウを最前面に表示します。</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="45"/>
         <source>Avoid close window accidentally. (eg. by double clicking the window)</source>
-        <translation>誤ってウィンドウを閉じないようにします。(例：ウィンドウをダブルクリックする)</translation>
+        <translation type="vanished">誤ってウィンドウを閉じないようにします。(例：ウィンドウをダブルクリックする)</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="48"/>
@@ -110,6 +105,31 @@
         <translation>利用者の権利</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="32"/>
+        <source>Launch the application using an image file path as an argument to load the file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="33"/>
+        <source>Dragging and dropping an image file onto the window is also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="35"/>
+        <source>Context menu options explanation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="42"/>
+        <source>Make the window stay on top of all other windows.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="45"/>
+        <source>Avoid closing the window accidentally. (e.g. by double clicking the window)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>Copyright (c) %1 %2</source>
         <comment>%1 is year, %2 is the name of copyright holder(s)</comment>
@@ -174,8 +194,8 @@
 <context>
     <name>GraphicsScene</name>
     <message>
-        <location filename="../mainwindow.cpp" line="305"/>
         <location filename="../graphicsscene.cpp" line="102"/>
+        <location filename="../mainwindow.cpp" line="305"/>
         <source>Drag image here</source>
         <translation>ここに画像をドラッグしてください</translation>
     </message>
@@ -279,9 +299,8 @@
         <translation>ゴミ箱への移動に失敗しました。ファイルのアクセス許可や、ファイルシステムの制限、プラットフォームの制限などを確認してください。</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="108"/>
         <source>Copy P&amp;ixmap</source>
-        <translation>画像をコピー(&amp;I)</translation>
+        <translation type="vanished">画像をコピー(&amp;I)</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="109"/>
@@ -289,33 +308,31 @@
         <translation>ファイルパスをコピー(&amp;F)</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="125"/>
+        <source>Show in Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="127"/>
         <source>Properties</source>
         <translation>プロパティ</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="112"/>
-        <location filename="../aboutdialog.cpp" line="41"/>
         <source>Stay on top</source>
-        <translation>最前面に表示する</translation>
+        <translation type="vanished">最前面に表示する</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="113"/>
-        <location filename="../aboutdialog.cpp" line="44"/>
         <source>Protected mode</source>
-        <translation>プロテクトモード</translation>
+        <translation type="vanished">プロテクトモード</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="114"/>
-        <location filename="../aboutdialog.cpp" line="47"/>
         <source>Keep transformation</source>
         <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation>表示状態を維持する</translation>
+        <translation type="vanished">表示状態を維持する</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="92"/>
         <source>Zoom in</source>
-        <translation>拡大</translation>
+        <translation type="vanished">拡大</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="88"/>
@@ -323,9 +340,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="93"/>
         <source>Zoom out</source>
-        <translation>縮小</translation>
+        <translation type="vanished">縮小</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="101"/>
@@ -333,9 +349,8 @@
         <translation>一時停止 / 再開のアニメーション</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="102"/>
         <source>Animation Go to Next Frame</source>
-        <translation>次のフレームへ移動するアニメーション</translation>
+        <translation type="vanished">次のフレームへ移動するアニメーション</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="104"/>
@@ -343,19 +358,12 @@
         <translation>画像を左右反転する(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="105"/>
         <source>Fit to view</source>
-        <translation>表示に合わせる</translation>
+        <translation type="vanished">表示に合わせる</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="106"/>
         <source>Fit to width</source>
-        <translation>横幅に合わせる</translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="107"/>
-        <source>Fit long image</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">横幅に合わせる</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="110"/>
@@ -373,38 +381,97 @@
         <translation>開く(&amp;O)…</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="90"/>
         <source>Actual size</source>
-        <translation>実際のサイズ</translation>
+        <translation type="vanished">実際のサイズ</translation>
+    </message>
+    <message>
+        <source>Toggle maximize</source>
+        <translation type="vanished">最大化を切り替える</translation>
+    </message>
+    <message>
+        <source>Rotate right</source>
+        <translation type="vanished">右に回転</translation>
+    </message>
+    <message>
+        <source>Rotate left</source>
+        <translation type="vanished">左に回転</translation>
+    </message>
+    <message>
+        <source>Previous image</source>
+        <translation type="vanished">前の画像</translation>
+    </message>
+    <message>
+        <source>Next image</source>
+        <translation type="vanished">次の画像</translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="90"/>
+        <source>Actual Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="91"/>
-        <source>Toggle maximize</source>
-        <translation>最大化を切り替える</translation>
+        <source>Toggle Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="92"/>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="93"/>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="95"/>
-        <source>Rotate right</source>
-        <translation>右に回転</translation>
+        <source>Rotate Clockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="96"/>
-        <source>Rotate left</source>
-        <translation>左に回転</translation>
+        <source>Rotate Counterclockwise</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="98"/>
-        <source>Previous image</source>
-        <translation>前の画像</translation>
+        <source>Previous Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="99"/>
-        <source>Next image</source>
-        <translation>次の画像</translation>
+        <source>Next Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="892"/>
+        <location filename="../actionmanager.cpp" line="102"/>
+        <source>Next Animation Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="105"/>
+        <source>Fit to View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="106"/>
+        <source>Fit to Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="107"/>
+        <source>Fit Long Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../actionmanager.cpp" line="108"/>
+        <source>Copy &amp;Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../actionmanager.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="892"/>
         <source>Move to Trash</source>
         <translation>ゴミ箱へ移動する</translation>
     </message>
@@ -425,14 +492,32 @@
         <translation>エクスプローラーで表示する</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="125"/>
         <source>Show in directory</source>
-        <translation>ディレクトリに表示する</translation>
+        <translation type="vanished">ディレクトリに表示する</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="128"/>
         <source>Quit</source>
         <translation>終了</translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="41"/>
+        <location filename="../actionmanager.cpp" line="112"/>
+        <source>Stay on Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="44"/>
+        <location filename="../actionmanager.cpp" line="113"/>
+        <source>Prevent Closing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../aboutdialog.cpp" line="47"/>
+        <location filename="../actionmanager.cpp" line="114"/>
+        <source>Keep Transformation</source>
+        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -786,9 +871,13 @@
         <translation>ショートカットの設定に失敗しました</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="75"/>
         <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
-        <translation>既存のショートカットと重複していないことを確認してください。</translation>
+        <translation type="vanished">既存のショートカットと重複していないことを確認してください。</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="75"/>
+        <source>Please check if these shortcuts are assigned to other actions.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="82"/>
@@ -822,8 +911,37 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="94"/>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="126"/>
+        <source>Stay on top by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="127"/>
+        <source>Use custom window closing animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="130"/>
+        <source>Use light-colored checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="132"/>
+        <source>Automatically fit long images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="136"/>
+        <source>Default window state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto size</source>
-        <translation>オートサイズ</translation>
+        <translation type="vanished">オートサイズ</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="95"/>
@@ -860,14 +978,8 @@
         <translation>システム設定に従う (小数スケーリング)</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="126"/>
         <source>Stay on top when start-up</source>
-        <translation>起動時に最前面に表示する</translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use built-in close window animation</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">起動時に最前面に表示する</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="128"/>
@@ -880,18 +992,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="130"/>
         <source>Use light-color checkerboard</source>
-        <translation>明るい色の格子模様を使用する</translation>
+        <translation type="vanished">明るい色の格子模様を使用する</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="131"/>
         <source>Loop the loaded gallery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="132"/>
-        <source>Auto long image mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -910,9 +1016,8 @@
         <translation>マウスホイールの動作</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="136"/>
         <source>Default window size</source>
-        <translation>既定のウィンドウサイズ</translation>
+        <translation type="vanished">既定のウィンドウサイズ</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="137"/>
