@@ -9,12 +9,14 @@
         <translation>정보</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="32"/>
         <source>Launch application with image file path as argument to load the file.</source>
-        <translation type="vanished">이미지 파일 경로를 인수로 지정하여 응용 프로그램을 시작하여 파일을 불러옵니다.</translation>
+        <translation>이미지 파일 경로를 인수로 지정하여 응용 프로그램을 시작하여 파일을 불러옵니다.</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="33"/>
         <source>Drag and drop image file onto the window is also supported.</source>
-        <translation type="vanished">이미지 파일을 창으로 끌어다 놓기도 지원됩니다.</translation>
+        <translation>이미지 파일을 창으로 끌어다 놓기도 지원됩니다.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -22,16 +24,19 @@
         <translation>이 응용 프로그램의 어떤 작업도 디스크의 사진을 변경하지 않습니다.</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="35"/>
         <source>Context menu option explanation:</source>
-        <translation type="vanished">상황에 맞는 메뉴 옵션 설명:</translation>
+        <translation>상황에 맞는 메뉴 옵션 설명:</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="42"/>
         <source>Make window stay on top of all other windows.</source>
-        <translation type="vanished">창이 다른 모든 창 위에 오도록 합니다.</translation>
+        <translation>창이 다른 모든 창 위에 오도록 합니다.</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="45"/>
         <source>Avoid close window accidentally. (eg. by double clicking the window)</source>
-        <translation type="vanished">실수로 창을 닫지 않도록 합니다. (예: 창을 더블 클릭하는 경우)</translation>
+        <translation>실수로 창을 닫지 않도록 합니다. (예: 창을 더블 클릭하는 경우)</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="48"/>
@@ -105,31 +110,6 @@
         <translation>사용자 권한</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="32"/>
-        <source>Launch the application using an image file path as an argument to load the file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="33"/>
-        <source>Dragging and dropping an image file onto the window is also supported.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="35"/>
-        <source>Context menu options explanation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="42"/>
-        <source>Make the window stay on top of all other windows.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="45"/>
-        <source>Avoid closing the window accidentally. (e.g. by double clicking the window)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>Copyright (c) %1 %2</source>
         <comment>%1 is year, %2 is the name of copyright holder(s)</comment>
@@ -194,8 +174,8 @@
 <context>
     <name>GraphicsScene</name>
     <message>
-        <location filename="../graphicsscene.cpp" line="102"/>
         <location filename="../mainwindow.cpp" line="305"/>
+        <location filename="../graphicsscene.cpp" line="102"/>
         <source>Drag image here</source>
         <translation>이미지를 여기로 끌기</translation>
     </message>
@@ -299,8 +279,9 @@
         <translation>휴지통으로 이동하지 못했습니다. 파일 권한 문제, 파일 시스템 제한 또는 플랫폼 제한으로 인해 발생할 수 있습니다.</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="108"/>
         <source>Copy P&amp;ixmap</source>
-        <translation type="vanished">Pixmap 복사(&amp;I)</translation>
+        <translation>Pixmap 복사(&amp;I)</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="109"/>
@@ -308,31 +289,33 @@
         <translation>파일 경로 복사(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="125"/>
-        <source>Show in Directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../actionmanager.cpp" line="127"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="112"/>
+        <location filename="../aboutdialog.cpp" line="41"/>
         <source>Stay on top</source>
-        <translation type="vanished">맨 위에 유지</translation>
+        <translation>맨 위에 유지</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="113"/>
+        <location filename="../aboutdialog.cpp" line="44"/>
         <source>Protected mode</source>
-        <translation type="vanished">보호 모드</translation>
+        <translation>보호 모드</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="114"/>
+        <location filename="../aboutdialog.cpp" line="47"/>
         <source>Keep transformation</source>
         <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation type="vanished">변형 유지</translation>
+        <translation>변형 유지</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="92"/>
         <source>Zoom in</source>
-        <translation type="vanished">확대</translation>
+        <translation>확대</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="88"/>
@@ -340,8 +323,9 @@
         <translation>다른 이름으로 저장(&amp;A)...</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="93"/>
         <source>Zoom out</source>
-        <translation type="vanished">축소</translation>
+        <translation>축소</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="101"/>
@@ -349,8 +333,9 @@
         <translation>애니메이션 일시 중지/재개</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="102"/>
         <source>Animation Go to Next Frame</source>
-        <translation type="vanished">애니메이션 다음 프레임으로 이동</translation>
+        <translation>애니메이션 다음 프레임으로 이동</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="104"/>
@@ -358,16 +343,19 @@
         <translation>수평으로 뒤집기(&amp;H)</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="105"/>
         <source>Fit to view</source>
-        <translation type="vanished">보기에 맞춤</translation>
+        <translation>보기에 맞춤</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="106"/>
         <source>Fit to width</source>
-        <translation type="vanished">너비에 맞춤</translation>
+        <translation>너비에 맞춤</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="107"/>
         <source>Fit long image</source>
-        <translation type="vanished">긴 이미지 맞추기</translation>
+        <translation>긴 이미지 맞추기</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="110"/>
@@ -385,97 +373,38 @@
         <translation>열기(&amp;O)...</translation>
     </message>
     <message>
-        <source>Actual size</source>
-        <translation type="vanished">실제 크기</translation>
-    </message>
-    <message>
-        <source>Toggle maximize</source>
-        <translation type="vanished">최대화 전환</translation>
-    </message>
-    <message>
-        <source>Rotate right</source>
-        <translation type="vanished">오른쪽으로 회전</translation>
-    </message>
-    <message>
-        <source>Rotate left</source>
-        <translation type="vanished">왼쪽으로 회전</translation>
-    </message>
-    <message>
-        <source>Previous image</source>
-        <translation type="vanished">이전 이미지</translation>
-    </message>
-    <message>
-        <source>Next image</source>
-        <translation type="vanished">다음 이미지</translation>
-    </message>
-    <message>
         <location filename="../actionmanager.cpp" line="90"/>
-        <source>Actual Size</source>
-        <translation type="unfinished"></translation>
+        <source>Actual size</source>
+        <translation>실제 크기</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="91"/>
-        <source>Toggle Maximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="92"/>
-        <source>Zoom In</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="93"/>
-        <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <source>Toggle maximize</source>
+        <translation>최대화 전환</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="95"/>
-        <source>Rotate Clockwise</source>
-        <translation type="unfinished"></translation>
+        <source>Rotate right</source>
+        <translation>오른쪽으로 회전</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="96"/>
-        <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <source>Rotate left</source>
+        <translation>왼쪽으로 회전</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="98"/>
-        <source>Previous Image</source>
-        <translation type="unfinished"></translation>
+        <source>Previous image</source>
+        <translation>이전 이미지</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="99"/>
-        <source>Next Image</source>
-        <translation type="unfinished"></translation>
+        <source>Next image</source>
+        <translation>다음 이미지</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="102"/>
-        <source>Next Animation Frame</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="105"/>
-        <source>Fit to View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="106"/>
-        <source>Fit to Width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="107"/>
-        <source>Fit Long Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="108"/>
-        <source>Copy &amp;Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="111"/>
         <location filename="../mainwindow.cpp" line="892"/>
+        <location filename="../actionmanager.cpp" line="111"/>
         <source>Move to Trash</source>
         <translation>휴지통으로 이동</translation>
     </message>
@@ -496,32 +425,14 @@
         <translation>파일 탐색기에 표시</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="125"/>
         <source>Show in directory</source>
-        <translation type="vanished">디렉터리에 표시</translation>
+        <translation>디렉터리에 표시</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="128"/>
         <source>Quit</source>
         <translation>종료</translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="41"/>
-        <location filename="../actionmanager.cpp" line="112"/>
-        <source>Stay on Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="44"/>
-        <location filename="../actionmanager.cpp" line="113"/>
-        <source>Prevent Closing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="47"/>
-        <location filename="../actionmanager.cpp" line="114"/>
-        <source>Keep Transformation</source>
-        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -875,13 +786,9 @@
         <translation>단축키 설정 실패</translation>
     </message>
     <message>
-        <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
-        <translation type="vanished">단축키가 기존 단축키와 중복되는지 확인해 주세요.</translation>
-    </message>
-    <message>
         <location filename="../settingsdialog.cpp" line="75"/>
-        <source>Please check if these shortcuts are assigned to other actions.</source>
-        <translation type="unfinished"></translation>
+        <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
+        <translation>단축키가 기존 단축키와 중복되는지 확인해 주세요.</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="82"/>
@@ -915,37 +822,8 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="94"/>
-        <source>Auto</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="126"/>
-        <source>Stay on top by default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use custom window closing animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="130"/>
-        <source>Use light-colored checkerboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="132"/>
-        <source>Automatically fit long images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="136"/>
-        <source>Default window state</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto size</source>
-        <translation type="vanished">자동 크기</translation>
+        <translation>자동 크기</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="95"/>
@@ -982,12 +860,14 @@
         <translation>시스템 따르기 (소수점 스케일링)</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="126"/>
         <source>Stay on top when start-up</source>
-        <translation type="vanished">시작 시 맨 위에 유지</translation>
+        <translation>시작 시 맨 위에 유지</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="127"/>
         <source>Use built-in close window animation</source>
-        <translation type="vanished">내장된 창 닫기 애니메이션 사용</translation>
+        <translation>내장된 창 닫기 애니메이션 사용</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="128"/>
@@ -1000,8 +880,9 @@
         <translation>조감도 보기 표시</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="130"/>
         <source>Use light-color checkerboard</source>
-        <translation type="vanished">밝은 색상의 바둑판 사용</translation>
+        <translation>밝은 색상의 바둑판 사용</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="131"/>
@@ -1009,8 +890,9 @@
         <translation>로드된 갤러리 반복</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="132"/>
         <source>Auto long image mode</source>
-        <translation type="vanished">자동 긴 이미지 모드</translation>
+        <translation>자동 긴 이미지 모드</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="133"/>
@@ -1028,8 +910,9 @@
         <translation>마우스 휠 동작</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="136"/>
         <source>Default window size</source>
-        <translation type="vanished">기본 창 크기</translation>
+        <translation>기본 창 크기</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="137"/>

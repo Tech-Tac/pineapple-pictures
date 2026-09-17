@@ -9,12 +9,14 @@
         <translation>O</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="32"/>
         <source>Launch application with image file path as argument to load the file.</source>
-        <translation type="vanished">Zaženite aplikacijo s potjo do slikovne datoteke kot argumentom za nalaganje datoteke.</translation>
+        <translation>Zaženite aplikacijo s potjo do slikovne datoteke kot argumentom za nalaganje datoteke.</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="33"/>
         <source>Drag and drop image file onto the window is also supported.</source>
-        <translation type="vanished">Podprta je tudi funkcija povleci in spusti, da povlečete slikovno datoteko v okno.</translation>
+        <translation>Podprta je tudi funkcija povleci in spusti, da povlečete slikovno datoteko v okno.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -22,16 +24,19 @@
         <translation>Nobena od operacij v tej aplikaciji ne bo spremenila slik na disku.</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="35"/>
         <source>Context menu option explanation:</source>
-        <translation type="vanished">Razlaga možnosti kontekstnega menija:</translation>
+        <translation>Razlaga možnosti kontekstnega menija:</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="42"/>
         <source>Make window stay on top of all other windows.</source>
-        <translation type="vanished">Okno naj ostane nad vsemi drugimi okni.</translation>
+        <translation>Okno naj ostane nad vsemi drugimi okni.</translation>
     </message>
     <message>
+        <location filename="../aboutdialog.cpp" line="45"/>
         <source>Avoid close window accidentally. (eg. by double clicking the window)</source>
-        <translation type="vanished">Izogibajte se nenamernemu zapiranju okna (npr. z dvojnim klikom na okno)</translation>
+        <translation>Izogibajte se nenamernemu zapiranju okna (npr. z dvojnim klikom na okno)</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="48"/>
@@ -105,31 +110,6 @@
         <translation>Vaše pravice</translation>
     </message>
     <message>
-        <location filename="../aboutdialog.cpp" line="32"/>
-        <source>Launch the application using an image file path as an argument to load the file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="33"/>
-        <source>Dragging and dropping an image file onto the window is also supported.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="35"/>
-        <source>Context menu options explanation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="42"/>
-        <source>Make the window stay on top of all other windows.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="45"/>
-        <source>Avoid closing the window accidentally. (e.g. by double clicking the window)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>Copyright (c) %1 %2</source>
         <comment>%1 is year, %2 is the name of copyright holder(s)</comment>
@@ -194,8 +174,8 @@
 <context>
     <name>GraphicsScene</name>
     <message>
-        <location filename="../graphicsscene.cpp" line="102"/>
         <location filename="../mainwindow.cpp" line="305"/>
+        <location filename="../graphicsscene.cpp" line="102"/>
         <source>Drag image here</source>
         <translation>Povlecite sliko sem</translation>
     </message>
@@ -287,8 +267,9 @@
         <translation>Premik v koš ni uspel. Morda je vzrok težava z dovoljenji za datoteke, omejitev datotečnega sistema ali omejitev platforme.</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="108"/>
         <source>Copy P&amp;ixmap</source>
-        <translation type="vanished">Kopiraj P&amp;ixmapo</translation>
+        <translation>Kopiraj P&amp;ixmapo</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="109"/>
@@ -296,31 +277,33 @@
         <translation>Kopiraj &amp;pot datoteke</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="125"/>
-        <source>Show in Directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../actionmanager.cpp" line="127"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="112"/>
+        <location filename="../aboutdialog.cpp" line="41"/>
         <source>Stay on top</source>
-        <translation type="vanished">Ostani na vrhu</translation>
+        <translation>Ostani na vrhu</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="113"/>
+        <location filename="../aboutdialog.cpp" line="44"/>
         <source>Protected mode</source>
-        <translation type="vanished">Zaščiten način</translation>
+        <translation>Zaščiten način</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="114"/>
+        <location filename="../aboutdialog.cpp" line="47"/>
         <source>Keep transformation</source>
         <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation type="vanished">Ohrani transformacijo</translation>
+        <translation>Ohrani transformacijo</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="92"/>
         <source>Zoom in</source>
-        <translation type="vanished">Povečaj</translation>
+        <translation>Povečaj</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="88"/>
@@ -328,8 +311,9 @@
         <translation>Shrani &amp;kot...</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="93"/>
         <source>Zoom out</source>
-        <translation type="vanished">Pomanjšaj</translation>
+        <translation>Pomanjšaj</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="101"/>
@@ -337,8 +321,9 @@
         <translation>Začasna ustavitev/nadaljevanje animacije</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="102"/>
         <source>Animation Go to Next Frame</source>
-        <translation type="vanished">Animacija Pojdi na naslednji okvir</translation>
+        <translation>Animacija Pojdi na naslednji okvir</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="104"/>
@@ -346,16 +331,19 @@
         <translation>Obrni &amp;vodoravno</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="105"/>
         <source>Fit to view</source>
-        <translation type="vanished">Prilagodi pogledu</translation>
+        <translation>Prilagodi pogledu</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="106"/>
         <source>Fit to width</source>
-        <translation type="vanished">Prilagodi širini</translation>
+        <translation>Prilagodi širini</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="107"/>
         <source>Fit long image</source>
-        <translation type="vanished">Prilagodi dolgi sliki</translation>
+        <translation>Prilagodi dolgi sliki</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="110"/>
@@ -373,97 +361,38 @@
         <translation>&amp;Odpri...</translation>
     </message>
     <message>
-        <source>Actual size</source>
-        <translation type="vanished">Dejanska velikost</translation>
-    </message>
-    <message>
-        <source>Toggle maximize</source>
-        <translation type="vanished">Preklopi maksimiranje</translation>
-    </message>
-    <message>
-        <source>Rotate right</source>
-        <translation type="vanished">Zavrti desno</translation>
-    </message>
-    <message>
-        <source>Rotate left</source>
-        <translation type="vanished">Zavrti levo</translation>
-    </message>
-    <message>
-        <source>Previous image</source>
-        <translation type="vanished">Prejšnja slika</translation>
-    </message>
-    <message>
-        <source>Next image</source>
-        <translation type="vanished">Naslednja slika</translation>
-    </message>
-    <message>
         <location filename="../actionmanager.cpp" line="90"/>
-        <source>Actual Size</source>
-        <translation type="unfinished"></translation>
+        <source>Actual size</source>
+        <translation>Dejanska velikost</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="91"/>
-        <source>Toggle Maximize</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="92"/>
-        <source>Zoom In</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="93"/>
-        <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <source>Toggle maximize</source>
+        <translation>Preklopi maksimiranje</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="95"/>
-        <source>Rotate Clockwise</source>
-        <translation type="unfinished"></translation>
+        <source>Rotate right</source>
+        <translation>Zavrti desno</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="96"/>
-        <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <source>Rotate left</source>
+        <translation>Zavrti levo</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="98"/>
-        <source>Previous Image</source>
-        <translation type="unfinished"></translation>
+        <source>Previous image</source>
+        <translation>Prejšnja slika</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="99"/>
-        <source>Next Image</source>
-        <translation type="unfinished"></translation>
+        <source>Next image</source>
+        <translation>Naslednja slika</translation>
     </message>
     <message>
-        <location filename="../actionmanager.cpp" line="102"/>
-        <source>Next Animation Frame</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="105"/>
-        <source>Fit to View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="106"/>
-        <source>Fit to Width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="107"/>
-        <source>Fit Long Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="108"/>
-        <source>Copy &amp;Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../actionmanager.cpp" line="111"/>
         <location filename="../mainwindow.cpp" line="892"/>
+        <location filename="../actionmanager.cpp" line="111"/>
         <source>Move to Trash</source>
         <translation>Premakni v koš</translation>
     </message>
@@ -484,32 +413,14 @@
         <translation>Prikaži v Raziskovalcu</translation>
     </message>
     <message>
+        <location filename="../actionmanager.cpp" line="125"/>
         <source>Show in directory</source>
-        <translation type="vanished">Prikaži v imeniku</translation>
+        <translation>Prikaži v imeniku</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="128"/>
         <source>Quit</source>
         <translation>Izhod</translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="41"/>
-        <location filename="../actionmanager.cpp" line="112"/>
-        <source>Stay on Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="44"/>
-        <location filename="../actionmanager.cpp" line="113"/>
-        <source>Prevent Closing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../aboutdialog.cpp" line="47"/>
-        <location filename="../actionmanager.cpp" line="114"/>
-        <source>Keep Transformation</source>
-        <comment>The &apos;transformation&apos; means the flip/rotation status that currently applied to the image view</comment>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -863,13 +774,9 @@
         <translation>Nastavitev bližnjic ni uspela</translation>
     </message>
     <message>
-        <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
-        <translation type="vanished">Preverite, ali so bližnjice podvojene z obstoječimi bližnjicami.</translation>
-    </message>
-    <message>
         <location filename="../settingsdialog.cpp" line="75"/>
-        <source>Please check if these shortcuts are assigned to other actions.</source>
-        <translation type="unfinished"></translation>
+        <source>Please check if shortcuts are duplicated with existing shortcuts.</source>
+        <translation>Preverite, ali so bližnjice podvojene z obstoječimi bližnjicami.</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="82"/>
@@ -903,37 +810,8 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="94"/>
-        <source>Auto</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="126"/>
-        <source>Stay on top by default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use custom window closing animation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="130"/>
-        <source>Use light-colored checkerboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="132"/>
-        <source>Automatically fit long images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../settingsdialog.cpp" line="136"/>
-        <source>Default window state</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto size</source>
-        <translation type="vanished">Samodejna velikost</translation>
+        <translation>Samodejna velikost</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="95"/>
@@ -970,12 +848,14 @@
         <translation>Sledi sistemu (delno skaliranje)</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="126"/>
         <source>Stay on top when start-up</source>
-        <translation type="vanished">Ostani na vrhu pri zagonu</translation>
+        <translation>Ostani na vrhu pri zagonu</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="127"/>
         <source>Use built-in close window animation</source>
-        <translation type="vanished">Uporabi vgrajeno animacijo zapiranja okna</translation>
+        <translation>Uporabi vgrajeno animacijo zapiranja okna</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="128"/>
@@ -988,8 +868,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="130"/>
         <source>Use light-color checkerboard</source>
-        <translation type="vanished">Uporabite svetlo šahovnico</translation>
+        <translation>Uporabite svetlo šahovnico</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="131"/>
@@ -997,8 +878,9 @@
         <translation>Ponavljaj naloženo galerijo</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="132"/>
         <source>Auto long image mode</source>
-        <translation type="vanished">Samodejni način dolge slike</translation>
+        <translation>Samodejni način dolge slike</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="133"/>
@@ -1016,8 +898,9 @@
         <translation>Obnašanje miškinega kolesca</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.cpp" line="136"/>
         <source>Default window size</source>
-        <translation type="vanished">Privzeta velikost okna</translation>
+        <translation>Privzeta velikost okna</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="137"/>
