@@ -105,7 +105,7 @@ void ActionManager::retranslateUi(MainWindow *mainWindow)
     actionFitInView->setText(QCoreApplication::translate("MainWindow", "Fit to View", nullptr));
     actionFitByWidth->setText(QCoreApplication::translate("MainWindow", "Fit to Width", nullptr));
     actionFitLongImage->setText(QCoreApplication::translate("MainWindow", "Fit Long Image", nullptr));
-    actionCopyPixmap->setText(QCoreApplication::translate("MainWindow", "Copy &Image", nullptr));
+    actionCopyPixmap->setText(QCoreApplication::translate("MainWindow", "Copy as Raster &Image", nullptr));
     actionCopyFilePath->setText(QCoreApplication::translate("MainWindow", "Copy &File Path", nullptr));
     actionPaste->setText(QCoreApplication::translate("MainWindow", "&Paste", nullptr));
     actionTrash->setText(QCoreApplication::translate("MainWindow", "Move to Trash", nullptr));

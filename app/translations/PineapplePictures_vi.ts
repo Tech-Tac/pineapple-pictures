@@ -269,7 +269,7 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="108"/>
-        <source>Copy &amp;Image</source>
+        <source>Copy as Raster &amp;Image</source>
         <translation>Sao chép P&amp;ixmap</translation>
     </message>
     <message>

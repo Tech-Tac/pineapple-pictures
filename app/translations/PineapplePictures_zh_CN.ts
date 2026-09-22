@@ -284,7 +284,7 @@
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="108"/>
-        <source>Copy &amp;Image</source>
+        <source>Copy as Raster &amp;Image</source>
         <translation>复制位图(&amp;I)</translation>
     </message>
     <message>

@@ -280,7 +280,7 @@
     </message>
     <message>
         <location filename="../actionmanager.cpp" line="108"/>
-        <source>Copy &amp;Image</source>
+        <source>Copy as Raster &amp;Image</source>
         <translation>Скопіювати P&amp;ixmap</translation>
     </message>
     <message>
