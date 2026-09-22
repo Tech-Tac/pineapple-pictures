@@ -866,7 +866,7 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use custom window closing animation</source>
+        <source>Use built-in window closing animation</source>
         <translation>내장된 창 닫기 애니메이션 사용</translation>
     </message>
     <message>

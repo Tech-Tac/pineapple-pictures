@@ -870,7 +870,7 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use custom window closing animation</source>
+        <source>Use built-in window closing animation</source>
         <translation>使用内置的关闭窗口动画</translation>
     </message>
     <message>

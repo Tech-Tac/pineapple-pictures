@@ -855,7 +855,7 @@ Loc Huynh &lt;https://github.com/hthienloc&gt;</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use custom window closing animation</source>
+        <source>Use built-in window closing animation</source>
         <translation>Sử dụng hoạt ảnh đóng cửa sổ tích hợp</translation>
     </message>
     <message>

@@ -124,7 +124,7 @@ SettingsDialog::SettingsDialog(QWidget *parent)
     }
 
     settingsForm->addRow(tr("Stay on top by default"), m_stayOnTop);
-    settingsForm->addRow(tr("Use custom window closing animation"), m_useBuiltInCloseAnimation);
+    settingsForm->addRow(tr("Use built-in window closing animation"), m_useBuiltInCloseAnimation);
     settingsForm->addRow(tr("Show title bar"), m_showTitleBar);
     settingsForm->addRow(tr("Show bird's-eye view"), m_showBirdEyeView);
     settingsForm->addRow(tr("Use light-colored checkerboard"), m_useLightCheckerboard);

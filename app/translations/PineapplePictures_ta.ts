@@ -854,7 +854,7 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use custom window closing animation</source>
+        <source>Use built-in window closing animation</source>
         <translation>உள்ளமைக்கப்பட்ட நெருக்கமான சாளர அனிமேஷனைப் பயன்படுத்தவும்</translation>
     </message>
     <message>

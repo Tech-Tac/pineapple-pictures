@@ -854,7 +854,7 @@
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="127"/>
-        <source>Use custom window closing animation</source>
+        <source>Use built-in window closing animation</source>
         <translation>استخدام تأثير غلق النافذة الخاص</translation>
     </message>
     <message>
